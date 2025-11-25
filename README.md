@@ -13,19 +13,19 @@ Veritabanını hemen satın almak için paket seçenekleri:
 
 | Paket | İçerik | Fiyat | Satın Alma |
 |:------|:-------|:-----|:-----------|
-| 🏷 **Marka** | Marka bilgilerini satın alırsınız | 💲50 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🏷 **Marka + Model** | Marka ve model bilgilerini satın alırsınız | 💲100 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🏷 **Marka + Model + Altmodel** | Marka, model ve altmodel bilgilerini satın alırsınız | 💲250 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🏷 **Marka + Model + Altmodel + Seçenekler** | Marka, model, altmodel ve model seçeneklerini satın alırsınız | 💲1.500 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🏍 **Motosiklet Verileri** | Tüm motosiklet detaylı verileri satın alırsınız | 💲500 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| ⚙️ **Hacim-Ağırlık Verileri** | Araç Hacim ve Ağırlık bilgileri | 💲500 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| ⚖️ **Araba Boyutları** | Araç Boyut bilgileri | 💲500 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🏎 **Motor Performans** | Motor Performans bilgileri | 💲500 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| ⛽ **Yakıt Tüketimi** | Yakıt Tüketim verileri | 💲500 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🔋 **Batarya Verileri** | Araç Batarya bilgileri | 💲500 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🛞 **Lastik Ölçüleri** | Lastik ölçüleri bilgileri | 💲500 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🛞 **Jant Ölçüleri** | Jant ölçüleri bilgileri | 💲500 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| ✨ **Özel İstek** | Özel veri istekleri | 💲500 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏷 **Marka** | Marka bilgilerini satın alırsınız | 💲100 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏷 **Marka + Model** | Marka ve model bilgilerini satın alırsınız | 💲250 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏷 **Marka + Model + Altmodel** | Marka, model ve altmodel bilgilerini satın alırsınız | 💲500 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏷 **Marka + Model + Altmodel + Seçenekler** | Marka, model, altmodel ve model seçeneklerini satın alırsınız | 💲100 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏍 **Motosiklet Verileri** | Tüm motosiklet detaylı verileri satın alırsınız | 💲1000 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| ⚙️ **Hacim-Ağırlık Verileri** | Araç Hacim ve Ağırlık bilgileri | 💲2000 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| ⚖️ **Araba Boyutları** | Araç Boyut bilgileri | 💲2000 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏎 **Motor Performans** | Motor Performans bilgileri | 💲2000 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| ⛽ **Yakıt Tüketimi** | Yakıt Tüketim verileri | 💲2000 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🔋 **Batarya Verileri** | Araç Batarya bilgileri | 💲2000 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🛞 **Lastik Ölçüleri** | Lastik ölçüleri bilgileri | 💲2000 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🛞 **Jant Ölçüleri** | Jant ölçüleri bilgileri | 💲2000 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| ✨ **Özel İstek** | Özel veri istekleri | 💲1000 | [Satın Al](https://carbrands.com.tr/buy-now) |
 
 ## 📁 İçerik
 
@@ -82,19 +82,19 @@ You can purchase the database immediately with the following packages:
 
 | Package | Content | Price | Purchase |
 |:--------|:--------|:-----|:---------|
-| 🏷 **Brand** | Get brand information only | 💲50 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| 🏷 **Brand + Model** | Get brand and model information | 💲100 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| 🏷 **Brand + Model + Submodel** | Get brand, model, and submodel information | 💲250 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| 🏷 **Brand + Model + Submodel + Options** | Get brand, model, submodel, and trim/options | 💲1,500 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| 🏷 **Full Details** | Get all detailed data | 💲5,000 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| ⚙️ **Volume & Weight Data** | Vehicle volume and weight information | 💲500 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| ⚖️ **Car Dimensions** | Vehicle dimensions information | 💲500 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| 🏎 **Engine Performance** | Engine performance information | 💲500 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| ⛽ **Fuel Consumption** | Fuel consumption data | 💲500 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| 🔋 **Battery Data** | Vehicle battery information | 💲500 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| 🛞 **Tire Sizes** | Tire size information | 💲500 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| 🛞 **Wheel Sizes** | Wheel size information | 💲500 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| ✨ **Custom Requests** | Custom data requests | 💲500 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🏷 **Brand** | Get brand information only | 💲100 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🏷 **Brand + Model** | Get brand and model information | 💲250 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🏷 **Brand + Model + Submodel** | Get brand, model, and submodel information | 💲500 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🏷 **Brand + Model + Submodel + Options** | Get brand, model, submodel, and trim/options | 💲1000 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🏍 **Motorcycle Data** | Purchase all detailed motorcycle information | 💲1000 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| ⚙️ **Volume & Weight Data** | Vehicle volume and weight information | 💲2000 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| ⚖️ **Car Dimensions** | Vehicle dimensions information | 💲2000 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🏎 **Engine Performance** | Engine performance information | 💲2000 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| ⛽ **Fuel Consumption** | Fuel consumption data | 💲2000 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🔋 **Battery Data** | Vehicle battery information | 💲2000 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🛞 **Tire Sizes** | Tire size information | 💲2000 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🛞 **Wheel Sizes** | Wheel size information | 💲2000 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| ✨ **Custom Requests** | Custom data requests | 💲1000 | [Buy Now](https://carbrands.com.tr/buy-now) |
 
 ---
 
@@ -148,31 +148,31 @@ For custom projects or filtered brand/model data requests, you can contact us:
 ## 🛠 Örnek Tablo Yapısı - 🛠 Sample Table Structure
 
 ```sql
--- Marka Tablosu
-CREATE TABLE marka (
+-- Brand Tablosu
+CREATE TABLE brand (
   id INT AUTO_INCREMENT PRIMARY KEY,
   marka_adi VARCHAR(100),
   logo_url VARCHAR(255)
 );
 
--- Model Tablosu
-CREATE TABLE model (
+-- Models Tablosu
+CREATE TABLE models (
   id INT AUTO_INCREMENT PRIMARY KEY,
   marka_id INT,
   model_adi VARCHAR(100),
   FOREIGN KEY (marka_id) REFERENCES marka(id)
 );
 
--- Alt Model Tablosu
-CREATE TABLE alt_model (
+-- Submodels  Tablosu
+CREATE TABLE submodels (
   id INT AUTO_INCREMENT PRIMARY KEY,
   model_id INT,
   alt_model_adi VARCHAR(255),
   FOREIGN KEY (model_id) REFERENCES model(id)
 );
 
--- Seçenekler (Donanım) Tablosu
-CREATE TABLE model_secenekler (
+-- Options Tablosu
+CREATE TABLE options (
   id INT AUTO_INCREMENT PRIMARY KEY,
   marka_id INT,
   model_id INT,
