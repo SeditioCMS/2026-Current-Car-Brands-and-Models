@@ -11,7 +11,7 @@ Oto ekspertiz, araç karşılaştırma, araç listeleme, galeri ve teknik incele
 
 Veritabanını hemen satın almak için paket seçenekleri:
 
-| Paket | İçerik | Fiyat | Satın Alma |
+| Paket | İçerik | Fiyat | Satın Al |
 |:------|:-------|:-----|:-----------|
 | 🏷 **Marka** | Marka bilgilerini satın alırsınız | 💲100 | [Satın Al](https://carbrands.com.tr/buy-now) |
 | 🏷 **Marka + Model** | Marka ve model bilgilerini satın alırsınız | 💲250 | [Satın Al](https://carbrands.com.tr/buy-now) |
