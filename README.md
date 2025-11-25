@@ -151,15 +151,14 @@ For custom projects or filtered brand/model data requests, you can contact us:
 -- Brand Tablosu
 CREATE TABLE brand (
   id INT AUTO_INCREMENT PRIMARY KEY,
-  marka_adi VARCHAR(100),
-  logo_url VARCHAR(255)
+  marka_adi VARCHAR(64)
 );
 
 -- Models Tablosu
 CREATE TABLE models (
   id INT AUTO_INCREMENT PRIMARY KEY,
   marka_id INT,
-  model_adi VARCHAR(100),
+  model_adi VARCHAR(64),
   FOREIGN KEY (marka_id) REFERENCES marka(id)
 );
 
@@ -167,7 +166,7 @@ CREATE TABLE models (
 CREATE TABLE submodels (
   id INT AUTO_INCREMENT PRIMARY KEY,
   model_id INT,
-  alt_model_adi VARCHAR(255),
+  alt_model_adi VARCHAR(128),
   FOREIGN KEY (model_id) REFERENCES model(id)
 );
 
@@ -177,7 +176,7 @@ CREATE TABLE options (
   marka_id INT,
   model_id INT,
   alt_model_id INT,
-  secenek_adi VARCHAR(255)
+  secenek_adi VARCHAR(128)
 );
 ---
 ```
