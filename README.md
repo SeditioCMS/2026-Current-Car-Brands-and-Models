@@ -1,8 +1,8 @@
-# 🚗 2026 Güncel Araba Markalar ve Modelleri
+# 🚗 2027 Güncel Araba Markalar ve Modelleri
 
-📦 **2026 Güncel Araba Markaları ve Modelleri Veritabanı**
+📦 **2027 Güncel Araba Markaları ve Modelleri Veritabanı**
 
-Bu proje, 2026 yılına ait **en güncel otomobil marka, model, alt model ve donanım seçeneklerini** içeren detaylı bir SQL veritabanı sunar.  
+Bu proje, 2027 yılına ait **en güncel otomobil marka, model, alt model ve donanım seçeneklerini** içeren detaylı bir SQL veritabanı sunar.  
 Oto ekspertiz, araç karşılaştırma, araç listeleme, galeri ve teknik inceleme gibi projelerde kullanılabilir.
 
 ---
@@ -13,19 +13,18 @@ Veritabanını hemen satın almak için paket seçenekleri:
 
 | Paket | İçerik | Fiyat | Satın Al |
 |:------|:-------|:-----|:-----------|
-| 🏷 **Marka** | Marka bilgilerini satın alırsınız | 💲100 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🏷 **Marka + Model** | Marka ve model bilgilerini satın alırsınız | 💲250 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🏷 **Marka + Model + Altmodel** | Marka, model ve altmodel bilgilerini satın alırsınız | 💲500 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🏷 **Marka + Model + Altmodel + Seçenekler** | Marka, model, altmodel ve model seçeneklerini satın alırsınız | 💲100 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🏍 **Motosiklet Verileri** | Tüm motosiklet detaylı verileri satın alırsınız | 💲1000 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| ⚙️ **Hacim-Ağırlık Verileri** | Araç Hacim ve Ağırlık bilgileri | 💲2000 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| ⚖️ **Araba Boyutları** | Araç Boyut bilgileri | 💲2000 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🏎 **Motor Performans** | Motor Performans bilgileri | 💲2000 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| ⛽ **Yakıt Tüketimi** | Yakıt Tüketim verileri | 💲2000 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🔋 **Batarya Verileri** | Araç Batarya bilgileri | 💲2000 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🛞 **Lastik Ölçüleri** | Lastik ölçüleri bilgileri | 💲2000 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| 🛞 **Jant Ölçüleri** | Jant ölçüleri bilgileri | 💲2000 | [Satın Al](https://carbrands.com.tr/buy-now) |
-| ✨ **Özel İstek** | Özel veri istekleri | 💲1000 | [Satın Al](https://carbrands.com.tr/buy-now) |
+| 🏷 **Marka** | Marka bilgilerini satın alırsınız | [Satın Al](https://carbrands.com.tr/otodata) |
+| 🏷 **Marka + Model** | Marka ve model bilgilerini satın alırsınız | [Satın Al](https://carbrands.com.tr/otodata) |
+| 🏷 **Marka + Model + Altmodel** | Marka, model ve altmodel bilgilerini satın alırsınız | [Satın Al](https://carbrands.com.tr/otodata) |
+| 🏷 **Marka + Model + Altmodel + Seçenekler** | Marka, model, altmodel ve model seçeneklerini satın alırsınız | [Satın Al](https://carbrands.com.tr/otodata) |
+| ⚙️ **Hacim-Ağırlık Verileri** | Araç Hacim ve Ağırlık bilgileri | [Satın Al](https://carbrands.com.tr/otodata) |
+| ⚖️ **Araba Boyutları** | Araç Boyut bilgileri | [Satın Al](https://carbrands.com.tr/otodata) |
+| 🏎 **Motor Performans** | Motor Performans bilgileri  | [Satın Al](https://carbrands.com.tr/otodata) |
+| ⛽ **Yakıt Tüketimi** | Yakıt Tüketim verileri  | [Satın Al](https://carbrands.com.tr/otodata) |
+| 🔋 **Batarya Verileri** | Araç Batarya bilgileri  | [Satın Al](https://carbrands.com.tr/otodata) |
+| 🛞 **Lastik Ölçüleri** | Lastik ölçüleri bilgileri  | [Satın Al](https://carbrands.com.tr/otodata) |
+| 🛞 **Jant Ölçüleri** | Jant ölçüleri bilgileri  | [Satın Al](https://carbrands.com.tr/otodata) |
+| ✨ **Özel İstek** | Özel veri istekleri  | [Satın Al](https://carbrands.com.tr/otodata) |
 
 ## 📁 İçerik
 
@@ -67,11 +66,11 @@ Veritabanını hemen satın almak için paket seçenekleri:
 
 --------------------------------------------------------------
 
-# 🚗 2026 Latest Car Brands and Models
+# 🚗 2027 Latest Car Brands and Models
 
-📦 **2026 Latest Car Brands and Models Database**
+📦 **2027 Latest Car Brands and Models Database**
 
-This project provides a detailed SQL database containing the **most up-to-date car brands, models, sub-models, and trim/options** for 2026.  
+This project provides a detailed SQL database containing the **most up-to-date car brands, models, sub-models, and trim/options** for 2027.  
 It can be used for car appraisal, comparison, listing platforms, galleries, and technical reviews.
 
 ---
@@ -82,19 +81,18 @@ You can purchase the database immediately with the following packages:
 
 | Package | Content | Price | Purchase |
 |:--------|:--------|:-----|:---------|
-| 🏷 **Brand** | Get brand information only | 💲100 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| 🏷 **Brand + Model** | Get brand and model information | 💲250 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| 🏷 **Brand + Model + Submodel** | Get brand, model, and submodel information | 💲500 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| 🏷 **Brand + Model + Submodel + Options** | Get brand, model, submodel, and trim/options | 💲1000 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| 🏍 **Motorcycle Data** | Purchase all detailed motorcycle information | 💲1000 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| ⚙️ **Volume & Weight Data** | Vehicle volume and weight information | 💲2000 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| ⚖️ **Car Dimensions** | Vehicle dimensions information | 💲2000 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| 🏎 **Engine Performance** | Engine performance information | 💲2000 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| ⛽ **Fuel Consumption** | Fuel consumption data | 💲2000 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| 🔋 **Battery Data** | Vehicle battery information | 💲2000 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| 🛞 **Tire Sizes** | Tire size information | 💲2000 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| 🛞 **Wheel Sizes** | Wheel size information | 💲2000 | [Buy Now](https://carbrands.com.tr/buy-now) |
-| ✨ **Custom Requests** | Custom data requests | 💲1000 | [Buy Now](https://carbrands.com.tr/buy-now) |
+| 🏷 **Brand** | Get brand information only  | [Buy Now](https://carbrands.com.tr/otodata) |
+| 🏷 **Brand + Model** | Get brand and model information  | [Buy Now](https://carbrands.com.tr/otodata) |
+| 🏷 **Brand + Model + Submodel** | Get brand, model, and submodel information  | [Buy Now](https://carbrands.com.tr/otodata) |
+| 🏷 **Brand + Model + Submodel + Options** | Get brand, model, submodel, and trim/options  | [Buy Now](https://carbrands.com.tr/otodata) |
+| ⚙️ **Volume & Weight Data** | Vehicle volume and weight information  | [Buy Now](https://carbrands.com.tr/otodata) |
+| ⚖️ **Car Dimensions** | Vehicle dimensions information  | [Buy Now](https://carbrands.com.tr/otodata) |
+| 🏎 **Engine Performance** | Engine performance information  | [Buy Now](https://carbrands.com.tr/otodata) |
+| ⛽ **Fuel Consumption** | Fuel consumption data  | [Buy Now](https://carbrands.com.tr/otodata) |
+| 🔋 **Battery Data** | Vehicle battery information  | [Buy Now](https://carbrands.com.tr/otodata) |
+| 🛞 **Tire Sizes** | Tire size information | [Buy Now](https://carbrands.com.tr/otodata) |
+| 🛞 **Wheel Sizes** | Wheel size information  | [Buy Now](https://carbrands.com.tr/otodata) |
+| ✨ **Custom Requests** | Custom data requests  | [Buy Now](https://carbrands.com.tr/otodata) |
 
 ---
 
@@ -144,41 +142,5 @@ For custom projects or filtered brand/model data requests, you can contact us:
 - 📧 bilgi@carbrands.com.tr  
 
 ---
-
-## 🛠 Örnek Tablo Yapısı - 🛠 Sample Table Structure
-
-```sql
--- Brand Tablosu
-CREATE TABLE brand (
-  id INT AUTO_INCREMENT PRIMARY KEY,
-  marka_adi VARCHAR(64)
-);
-
--- Models Tablosu
-CREATE TABLE models (
-  id INT AUTO_INCREMENT PRIMARY KEY,
-  marka_id INT,
-  model_adi VARCHAR(64),
-  FOREIGN KEY (marka_id) REFERENCES marka(id)
-);
-
--- Submodels  Tablosu
-CREATE TABLE submodels (
-  id INT AUTO_INCREMENT PRIMARY KEY,
-  model_id INT,
-  alt_model_adi VARCHAR(128),
-  FOREIGN KEY (model_id) REFERENCES model(id)
-);
-
--- Options Tablosu
-CREATE TABLE options (
-  id INT AUTO_INCREMENT PRIMARY KEY,
-  marka_id INT,
-  model_id INT,
-  alt_model_id INT,
-  secenek_adi VARCHAR(128)
-);
----
-```
 
 
